@@ -156,7 +156,7 @@ while True:
 logo()
 animatedtext("Děkuji za hraní Chicago")
 animatedtext("Dělal Jsem to 3.5h")
-
+animatedtext("Udělal Justin Jindřich Lukes")
 
 
 
